@@ -68,7 +68,7 @@ The project follows a complete analytics pipeline:
 ---
 
 ## 💳 Dashboard (LOAN ANALYSIS)
-![Loan Analysis Dashboard](Dashboard(LOAN ANALYSIS).png)
+![Loan Analysis Dashboard](Dashboard(LOAN-ANALYSIS).png)
 
 ### Key Insights
 - **Bank Loan Total:** 1.77bn  
@@ -85,7 +85,7 @@ The project follows a complete analytics pipeline:
 ---
 
 ## 💰 Dashboard (DEPOSIT ANALYSIS)
-![Deposit Analysis Dashboard](Dashboard(DEPOSIT ANALYSIS).png)
+![Deposit Analysis Dashboard](Dashboard(DEPOSIT-ANALYSIS).png)
 
 ### Key Insights
 - **Bank Deposits:** 2.01bn  
